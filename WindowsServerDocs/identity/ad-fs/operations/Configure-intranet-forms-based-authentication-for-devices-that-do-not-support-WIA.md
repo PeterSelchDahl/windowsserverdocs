@@ -44,6 +44,8 @@ Windows NT 6.2; Trident/7.0</br></br>Windows NT 6.2; Win64; x64; Trident/7.0</br
 Windows NT 6.1; Trident/7.0</br></br>Windows NT 6.1; Win64; x64; Trident/7.0</br></br>Windows NT 6.1; WOW64; Trident/7.0|Windows 7 desktop operating system, different platoforms|
 MSIPC| Microsoft Information Protection and Control Client|
 Windows Rights Management Client|Windows Rights Management Client|
+MSAuthHost/1.0/In-Domain|Microsoft Authentication Broker|
+Windows-AzureAD-Authentication-Provider/1.0|Microsoft Authentication Broker 2|
 
 In order to enable fallback to form based authentication for user agents other than those mentioned in the WIASupportedUserAgents string, set the WindowsIntegratedFallbackEnabled flag to true
 
